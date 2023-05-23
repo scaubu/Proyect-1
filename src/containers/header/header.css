@@ -1,11 +1,11 @@
-gpt3__header {
+.gpt3__header {
     display: flex;
 }
 
 .gpt3__header-content {
     flex: 1;
     display: flex;
-    justifiy-content: center;
+    justify-content: center;
     align-items: flex-start;
     flex-direction: column;
 
@@ -162,3 +162,4 @@ gpt3__header {
         line-height: 16px
     }     
 }
+
