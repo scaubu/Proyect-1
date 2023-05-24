@@ -89,6 +89,10 @@
         font-size: 28px;
         line-height: 40px;
     }
+
+    .gpt3__whatgpt3-container{
+        flex-direction: column;
+    }
 }
 
 @media screen and (max-width: 350px) {
